@@ -9,5 +9,5 @@
 ## PGP Публичные ключи
 
 - [Текущий Куратор УИТ - Олег Бедрин (0x7BF38D6D)](./pgp/Current_Directorate_Curator_Oleg_Bedrin_0x7BF38D6D_public.asc)
-- [Куратор Директората (0xAEDB22DF)](./pgp/Directorate_Curator_0xAEDB22DF_public.asc)
-- [Куратор Шамир (0x78DFCEF8)](./pgp/Shamir_Curator_0x78DFCEF8_public.asc)
+- [Куратор Управления ИТ (0xAEDB22DF)](./pgp/Directorate_Curator_0xAEDB22DF_public.asc)
+- [Куратор группы "Шамир" (0x78DFCEF8)](./pgp/Shamir_Curator_0x78DFCEF8_public.asc)
